@@ -2,6 +2,12 @@ body {
    background-color: #00254d;
 }
 
+h1 {
+   font-family: arial, sans serif;
+   color: white;
+   margin: auto;
+}
+
 article {
     margin: auto;
     padding: 2%;
