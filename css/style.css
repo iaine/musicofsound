@@ -3,6 +3,8 @@ body {
 }
 
 article {
+    margin: auto;
+    padding: 2%;
     background-color: #e6f2ff;
     width: 75%;
     text-align: justify;
