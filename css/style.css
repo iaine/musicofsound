@@ -1,0 +1,10 @@
+body {
+   background-color: #00254d;
+}
+
+article {
+    background-color: #e6f2ff;
+    width: 75%;
+    text-align: justify;
+    font-family: arial, sans serif;
+}
