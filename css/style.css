@@ -18,7 +18,7 @@ article {
     font-family: arial, sans serif;
 }
 
-#ftr_logo p {
+.ftr_logo p {
     padding-top: 2%;
     margin: 0 auto;
     width: 100%;
