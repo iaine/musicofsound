@@ -16,3 +16,7 @@ article {
     text-align: justify;
     font-family: arial, sans serif;
 }
+
+.ftr_logo {
+    margin: auto;
+}
