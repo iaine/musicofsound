@@ -18,6 +18,14 @@ article {
     font-family: arial, sans serif;
 }
 
+#hdr_logo {
+   width:100%;
+}
+
+#hdr_logo img {
+   margin-left: 5%;
+}
+
 .ftr_logo {
     padding-top: 2%;
     margin: 0 auto;
