@@ -19,7 +19,8 @@ article {
 
 #ftr_logo {
     padding-top: 2%;
-    text-align: auto;
+    margin: 0 auto;
+    width: 100%;
 }
 
 img {
