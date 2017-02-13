@@ -6,6 +6,7 @@ h1 {
    font-family: arial, sans serif;
    color: white;
    margin: auto;
+   float: right;
 }
 
 article {
