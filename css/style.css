@@ -1,28 +1,45 @@
 body {
-   background-color: #00254d;
+   background-color: #002147;
 }
 
 h1 {
    font-family: arial, sans serif;
-   color: white;
+   color: #fffeff;
    margin: auto;
+   float: inline;
+   text-align:center;
+   background-image: url("images/timbre.jpg");
+       background-size: 100% 6%;
+    background-repeat: no-repeat;
 }
 
 article {
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6%;
     padding: 2%;
-    background-color: #e6f2ff;
+    background-color: #ffffff;
     width: 75%;
     text-align: justify;
     font-family: arial, sans serif;
+    color: #3b3b3b;
 }
 
-#ftr_logo {
+.hdr_logo {
+   width:100%;
+   margin-left:10%;
+}
+
+.ftr_logo {
     padding-top: 2%;
     margin: 0 auto;
     width: 100%;
+    text-align: center;
 }
 
 img {
     height: 100px;
+}
+a {
+ text-decoration: none;  
 }
