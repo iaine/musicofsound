@@ -24,7 +24,7 @@ article {
 .hdr_logo {
    width:100%;
    margin-left:10%;
-   background-image: url("images/timbre.jpeg");
+   background-image: url("../images/timbre.jpeg");
    background-size: 100% 6%;
    background-repeat: no-repeat;
 }
