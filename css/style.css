@@ -7,6 +7,10 @@ h1 {
    color: #fffeff;
    margin: auto;
    float: inline;
+   text-align:center;
+   background-image: url("images/timbre.jpg");
+       background-size: 100% 6%;
+    background-repeat: no-repeat;
 }
 
 article {
