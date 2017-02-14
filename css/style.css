@@ -5,11 +5,8 @@ body {
 h1 {
    font-family: arial, sans serif;
    color: #fffeff;
-   margin-left: 5%;
+   margin-left: 25%;
    float: inline;
-   background-image: url("images/timbre.jpeg");
-       background-size: 100% 6%;
-    background-repeat: no-repeat;
 }
 
 article {
@@ -27,6 +24,9 @@ article {
 .hdr_logo {
    width:100%;
    margin-left:10%;
+   background-image: url("images/timbre.jpeg");
+   background-size: 100% 6%;
+   background-repeat: no-repeat;
 }
 
 .ftr_logo {
